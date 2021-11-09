@@ -337,7 +337,7 @@ TODO: Mehr?
 * **Trans. Frau. Sein.** von **Felicia Ewert**
 * **Ich bin Linus. Wie ich der Mann wurde der ich schon immer war** von **Linus Giese**
 * **Goodbye Gender** von **Rae Spoon und Ivan E. Coyote**
-* **Begegnungen auf der Trans*Fläche** vom **Kollektiv Sterne und Steinchen**
+* **Begegnungen auf der Trans\*Fläche** vom **Kollektiv Sterne und Steinchen**
 * **Inter\*Trans\*Express**  von **Ika Elvau**
 * **Identitätskrise 2.0**  von **Ika Elvau**
 * **Beyond the Gender Binary** von **Alok Vaid-Menon** (englisch)

@@ -334,7 +334,21 @@ TODO: Mehr?
 
 ## Literatur
 
-TODO: MEHR, bzw. mal iwas!
+* **Trans. Frau. Sein.** von **Felicia Ewert**
+* **Ich bin Linus. Wie ich der Mann wurde der ich schon immer war** von **Linus Giese**
+* **Goodbye Gender** von **Rae Spoon und Ivan E. Coyote**
+* **Begegnungen auf der Trans*Fläche** vom **Kollektiv Sterne und Steinchen**
+* **Inter\*Trans\*Express**  von **Ika Elvau**
+* **Identitätskrise 2.0**  von **Ika Elvau**
+* **Beyond the Gender Binary** von **Alok Vaid-Menon** (englisch)
+* **Antiqueere Ideologie. Die Suche nach identitärer Sicherheit - und was politische Bildung dagegen ausrichten kann** von **Hannah Engelmann**
+* **Black in both sides. A Racial History of Trans Identity** von **C. Riley Snorton** (englisch)
+* **care trans_formieren. Eine ethnographische Studie zu trans und nicht-binärer Sorgearbeit** von **Francis Seeck**
+* **exit gender** von **Lann Hornscheidt und Lio Oppenländer**
+* **Mein Kind ist transgender.- und jetzt?** von **Dr. Michele Angello und Alisa Bowman**
+
+
+TODO: Mehr?
 
 ### Glauben und trans*
 

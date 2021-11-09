@@ -61,6 +61,13 @@ Die Liste ist nicht vollständig, bietet aber ein paar Anlaufstellen:
 * **[Aidshilfe Trans][75]** (Online Beratung für erwachsene trans\* Frauen)
 * **[TGNS][76]** (Schweizweites Beratungsnetzwerk)
 * **[HAZ][77]** (Anlaufstelle für queere Personen in Zürich)
+* **[ZIVD][98]** (für queere und geflüchtete trans* Menschen)
+* **[Queerbase][99]** (für queere und geflüchtete trans* Menschen)
+
+### Anlaufstellen für muslimische queere und trans* Menschen
+
+* **[Liebe-ist-halal][100]**
+* **[Ibn Rushd - Goehte Moschee][101]** (nur Berlin)
 
 
 
@@ -417,3 +424,7 @@ TODO: Mehr
 [95]: https://www.youtube.com/watch?v=141CcfynjuM
 [96]: https://www.youtube.com/watch?v=V-ySdvYnuwY
 [97]: https://www.youtube.com/watch?v=pMZqdzAqHeo
+[98]: https://www.zivd.de
+[99]: https://friends.queerbase.at
+[100]: https://www.liebe-ist-halal.de
+[101]: https://www.ibn-rushd-goethe-moschee.de

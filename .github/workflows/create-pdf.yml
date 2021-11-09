@@ -1,0 +1,21 @@
+name: Create PDF file
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --variable lang=de-DE --variable documentclass=report --variable links-as-notes --variable urlcolor=cyan --reference-links --reference-location=document --toc --output=Readme.pdf for-conversion.md
+          
+      - name: Commit changes
+        run: |
+          git config --global user.name "johanna4711"
+          git config --global user.email "johanna4711@zohomail.eu"
+          git add Readme.pdf
+          git commit -m "Convert Markdown to PDF"
+          git push

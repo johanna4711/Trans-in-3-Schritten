@@ -300,7 +300,7 @@ TODO: Mehr?
 * **Black in both sides. A Racial History of Trans Identity** von **C. Riley Snorton** (englisch)
 * **care trans_formieren. Eine ethnographische Studie zu trans und nicht-binärer Sorgearbeit** von **Francis Seeck**
 * **exit gender** von **Lann Hornscheidt und Lio Oppenländer**
-* **Mein Kind ist transgender.- und jetzt?** von **Dr. Michele Angello und Alisa Bowman**
+* **Mein Kind ist transgender. - und jetzt?** von **Dr. Michele Angello und Alisa Bowman**
 
 
 TODO: Mehr?

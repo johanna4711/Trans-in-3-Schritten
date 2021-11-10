@@ -408,6 +408,12 @@ TODO: Mehr?
 * **[Clicklit][120]**
 
 
+# Was sind jetzt die 3 Schritte eigentlich?
+
+1. Einatmen
+2. Ausatmen
+3. Trans\* sein - oder auch nicht, wie du magst. Denn du bist du und ob du trans\* bist entscheidest nur du, dafür musst du nicht mehr tun als du zu sein :3
+
 [1]: johanna4711@zohomail.eu 
 [2]: https://www.trans-ident.de/trans-ident-beratungsstelle
 [3]: https://www.transinterqueer.org/beratung/persoenliche-trans-inter-beratung/

@@ -6,7 +6,8 @@ Inhaltsverzeichnis
 * [Disclaimer](#disclaimer)
 * [Begriffserklärungen](#begriffserklärungen)
    * [Was ist trans*?](#was-ist-trans)
-   * [Was ist nichtbinär?](#was-ist-nichtbinär)
+      * [Was ist binär trans*?](#was-ist-binär-trans)
+      * [Was ist nichtbinär trans*?](#was-ist-nichtbinär-trans)
 * [Beratungsstellen](#beratungsstellen)
    * [Lokale Selbsthilfegruppen](#lokale-selbsthilfegruppen)
    * [Weitere Anlaufstellen:](#weitere-anlaufstellen)
@@ -36,12 +37,17 @@ Inhaltsverzeichnis
          * [Gesichtsfeminisierung (FFS), chirurgische Stimmfeminisierung (VFS), tracheal Shave, Rippensektion](#gesichtsfeminisierung-ffs-chirurgische-stimmfeminisierung-vfs-tracheal-shave-rippensektion)
       * [Frau zu Mann](#frau-zu-mann)
          * [Binder](#binder)
-         * [Penisepithesen](#penisepithesen)
+            * [Binding mittels Kinesio Tape](#binding-mittels-kinesio-tape)
+         * [Packing](#packing)
+            * [DIY Packer](#diy-packer)
+            * [Penisepithesen](#penisepithesen)
          * [Mastektomie](#mastektomie)
 * [Weitere nützliche/informative Links/ Sammlungen von Links](#weitere-nützlicheinformative-links-sammlungen-von-links)
    * [Videomaterial](#videomaterial)
    * [Literatur](#literatur)
       * [Glauben und trans*](#glauben-und-trans)
+         * [christliche Glaubensausrichtung](#christliche-glaubensausrichtung)
+         * [muslimische Glaubensausrichtung](#muslimische-glaubensausrichtung)
       * [Büchershops](#büchershops)
 
 # Trans* in 3 Schritten
@@ -73,12 +79,16 @@ Darf gerne geteilt werden :3
 
 ## Was ist trans\*?
 
+*(Soll hier was hin???)*
+
+### Was ist binär trans\*?
+
 Transgender beschreibt nach einer aktuell verbreiteten Definition, dass eine Person sich nicht oder nicht immer mit dem Geschlecht identifiziert, das ihr bei der Geburt zugewiesen wurde. Als Kurzform wird häufig trans oder trans\* verwendet. Das Wort für Menschen, denen schon bei der Geburt das Geschlecht zugewiesen worden ist, das sie jetzt haben, ist cis.
 
 Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**, **[Genderdysphoriebibel][32]** oder unter **[queer lexikon][88]**.
 
 
-## Was ist nichtbinär?
+### Was ist nichtbinär trans\*?
 
 Nichtbinär/abinär/non-binär/nonbinary und genderqueer werden oft mit der selben Bedeutung verwendet, nämlich: Ein Geschlecht, das weder ganz/immer weiblich ist, noch ganz/immer männlich. Damit sind sie Überbegriffe für sehr verschiedene Arten, das eigene Geschlecht zu erleben.
 
@@ -149,7 +159,7 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 
 Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über **[Google][6]** zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
 Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (**[Google][6]**) nach geeigneten (trans\* freundlichen) Therapeut\*innen zu fragen.
-Eine weitere Möglichkeit geeignete Therapeut\*innen zu finden ist über das Subreddit **[GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
+Eine weitere Möglichkeit geeignete Therapeut\*innen zu finden ist über das Subreddit **[Reddit: GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
 
 Eins kann es auch über den Weg des PStGs §45b versuchen, ein Erfolg hierbei ist allerdings nicht garantiert.
 
@@ -164,7 +174,7 @@ Es kann (vor allem via des TSGs) einige Zeit dauern, bis der Vorname bzw. der Pe
 
 # Medizinisches
 
-Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzungen zu beachten. An dieser Stelle ein **wichtiger Hinweis**. Es müssen **NICHT** alle medizinischen Maßnahmen durchgeführt werden. Jeder Mensch hat andere Bedürfnisse! Die MDS Richtlinien gelten nur für Personen über 18. Die Diagnose F64.0 ist nur für Personen über 18 zulässig, ansonsten ist es F64.2.
+Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzungen zu beachten. An dieser Stelle ein **wichtiger Hinweis**. Medizinische Transition ist ein Angebot, das nicht wahrgenommen werden muss, damit eins trans\* ist. Jeder Mensch hat andere Bedürfnisse! Die MDS Richtlinien gelten nur für Personen über 18. Die Diagnose F64.0 ist nur für Personen über 18 zulässig, ansonsten ist es F64.2.
 
 Leitlinien für trans\* Patient\*innen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
@@ -172,8 +182,8 @@ Leitlinien für trans\* Patient\*innen und Fachpersonal sind in den **[AWMF Leit
 
 ### Voraussetzungen
 
-Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. So ein Indikationsschreiben bekommt eins von Therapeut\*innen (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Aber es gibt durchaus Therapeut\*innen, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit][15]** fragen).
-Wenn eins dieses Schreiben hat, kann damit zu Endokrinolog\*innen/Urolog\*innen/Gynokolog\*innen gegangen werden.
+Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. So ein Indikationsschreiben bekommt eins von Therapeut\*innen (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Aber es gibt durchaus Therapeut\*innen, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
+Wenn eins dieses Schreiben hat, kann damit zu Endokrinolog\*innen/Urolog\*innen/Gynäkolog\*innen gegangen werden.
 
 
 ### Ärzt\*innen
@@ -184,7 +194,7 @@ Wenn eins dieses Schreiben hat, kann damit zu Endokrinolog\*innen/Urolog\*innen/
 * **[queermed-deutschland][89]**
 * **[gynformation][19]**
 * lokale Selbsthilfegruppen (**[Google][6]**)
-* **[Reddit][15]**
+* **[Reddit: GermanTrans][15]**
 
 ## Genitalangleichende Operation (GAOP)
 
@@ -281,11 +291,23 @@ Voraussetzungen:
 
 Binder bieten eine Möglichkeit, die weibliche Brust zu kaschieren, damit eine männliche Brustform entsteht. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
 
+**Sicherheitshinweise:**
+
+* Nie einen zu kleinen Binder tragen
+* Nie im Binder schlafen (auch kein Nickerchen)
+* Immer messen. Nie davon ausgehen, dass unterschiedliche Firmen die selben Maße habe
+* Nie mehr als maximal 8 Stunden am Tag tragen (zwischendurch öfters mal ausziehen)
+* Nicht beim Sport tragen (außer der Binder ist eine Größe größer)
+* Binder immer ausziehen wenn etwas weh tut!
+* Nicht mit elastischen Binden oder Klebeband (Panzer- oder Gaffatape)
+Kinesio Tape isst in Ordnung
+
 Hilfreiche Quellen zu Binders:
 
 * **[TransX Binder][61]**
 * **[Hello Clue][62]** (leider auf englisch)
 * **[Transmann Binder][63]**
+* **[Nibispace: Binder][111]**
 
 
 Shops:
@@ -293,12 +315,44 @@ Shops:
 * **[gc2b][64]**
 * **[Spectrum][65]**
 * **[Transmissie][66]**
+* **[Underworks][103]**
+* **[Bewhoyouare][104]**
+* **[T-Kingdom][105]**
+* **[Shapeshifters][106]**
+
+##### Binding mittels Kinesio Tape
+
+TODO!
+
+#### Packing
+
+Packing ist eine Methode um einen männlichen Schritt zu erreichen. Hierzu gibt es diverse Möglichkeiten.
+
+##### DIY Packer
+
+Socken einfach zusammengerollt oder elaboriert in Penisform bringen (für die Optik). Mit zum Beispiel Reis befüllt erreicht eins auch ein entsprechendes Gewicht, wenn dies erwünscht ist.
+Oder etwas Knetmasse, Haargel in ein Kondom füllen.
+
+
+Links:
+
+* **[Nibispace: Packer][109]**
+* **[Transmann: Stuffer und Pinkelhilfen][110]**
+
+Anleitungen:
+
+* **[Transguysupply][107]** (englisch)
+* **[YouTube: Hilfsmittel Packer | Anleitung für DIY-Socken-Packer][108]**
 
 TODO: Mehr?
 
-#### Penisepithesen
+##### Penisepithesen
 
 Um einen männlichen Schritt zu erreichen, eignen sich sogenannte Penisepithesen sehr gut (bis die GAOP vollzogen ist; sofern dies erwünscht ist). Unter **[Penisepithesen Sofia][84]** findet eins weitere Informationen.
+
+Shops:
+
+* **[Transguysupply: Mr. Limpy][112]**
 
 
 
@@ -355,16 +409,24 @@ TODO: Mehr?
 * **care trans_formieren. Eine ethnographische Studie zu trans und nicht-binärer Sorgearbeit** von **Francis Seeck**
 * **exit gender** von **Lann Hornscheidt und Lio Oppenländer**
 * **Mein Kind ist transgender. - und jetzt?** von **Dr. Michele Angello und Alisa Bowman**
-
+* **Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrationshintergrund** von **Jayrôme C. Robinet**
 
 TODO: Mehr?
 
 ### Glauben und trans*
 
+#### christliche Glaubensausrichtung
+
 * **Jesus liebt trans** von **Klaus-Peter Lüdke**
 * **Das Geschlecht in mir** von **Gerhard Schreiber**
 * **Menschenbilder und Gottesbilder** von **Laura-Christin Krannich**
 * **[Handreichung der EKHN][90]**
+
+#### muslimische Glaubensausrichtung
+
+* **Mann wird man Geschlechtliche Identitäten im Spannungsfeld von Migration und Islam** von **Lydia Potts und Jan Kühnemund**
+* **Women with Mustaches and Men without Beards Gender and Sexual Anxieties of Iranian Modernity** von **Afsaneh Najmabadi** (englisch)
+
 
 ### Büchershops
 
@@ -476,3 +538,13 @@ TODO: Mehr
 [100]: https://www.liebe-ist-halal.de
 [101]: https://www.ibn-rushd-goethe-moschee.de
 [102]: https://twitter.com/DrJoelina
+[103]: https://www.underworks.com/tri-top-chest-binder
+[104]: https://bwya.fr/product-category/binders/eco-binders/eco-binder-blanc?product_count=24
+[105]: http://www.t-kingdom.com
+[106]: https://shapeshifters.co
+[107]: https://transguysupply.com/blogs/news/how-to-make-a-packer
+[108]: https://www.youtube.com/watch?v=gTCVQFt_LxU
+[109]: https://nibi.space/packer
+[110]: https://transmann.de/trans-informationen/allgemeine-tipps/#Stuffer%20und%20Pinkelhilfen
+[111]: https://nibi.space/binding?redirect=1
+[112]: https://transguysupply.com/products/mr-limpy

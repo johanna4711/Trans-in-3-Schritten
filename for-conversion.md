@@ -11,6 +11,7 @@ Credits:
 * **[Robin][33]**
 * **[Ilian][34]**
 * **[Luna][35]**
+* **[Mar][121]**
 * **[Joelina][102]**
 * **[TRANS*WIS][48]**
 * **[TRANS*SN][49]**
@@ -27,13 +28,13 @@ Darf gerne geteilt werden :3
 
 ## Was ist trans\*?
 
-*(Soll hier was hin???)*
+Transgender beschreibt nach einer aktuell verbreiteten Definition, dass eine Person sich nicht, nicht immer oder nicht vollständig mit dem Geschlecht identifiziert, das ihr bei der Geburt zugewiesen wurde. Als Kurzform wird häufig trans oder trans\* verwendet. Das Wort für Menschen, denen schon bei der Geburt das Geschlecht zugewiesen worden ist, das sie jetzt haben, ist cis.
+
+Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**, **[Genderdysphoriebibel][32]** oder unter **[queer lexikon][88]**.
 
 ### Was ist binär trans\*?
 
-Transgender beschreibt nach einer aktuell verbreiteten Definition, dass eine Person sich nicht oder nicht immer mit dem Geschlecht identifiziert, das ihr bei der Geburt zugewiesen wurde. Als Kurzform wird häufig trans oder trans\* verwendet. Das Wort für Menschen, denen schon bei der Geburt das Geschlecht zugewiesen worden ist, das sie jetzt haben, ist cis.
-
-Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**, **[Genderdysphoriebibel][32]** oder unter **[queer lexikon][88]**.
+Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häuft ist MzF (Mann-zu-Frau) oder FzM (Frau-zu-Mann) ein Akronym dafür. Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
 
 
 ### Was ist nichtbinär trans\*?
@@ -126,7 +127,7 @@ Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzunge
 
 Leitlinien für trans\* Patient\*innen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
-## Gegengeschlechtliche Hormonersatztherapie (HET/HRT)
+## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
 
 ### Voraussetzungen
 
@@ -186,7 +187,7 @@ Weitere Kliniken finden sich bei **[gendertreff][23]** (Ruf bei einigen nicht be
 
 ## Spezifische Angleichungen
 
-### Mann zu Frau
+### Transfeminine Personen (umgangssprachlich auch Mann-zu-Frau genannt)
 
 #### Tucking
 
@@ -233,7 +234,7 @@ Voraussetzungen:
 * Erscheinungsbild noch nicht gut genug angeglichen (Beweisfotos)
 * Kostenvoranschlag
 
-### Frau zu Mann
+### Transmaskuline Personen (umgangssprachlich auch Frau-zu-Mann genannt)
 
 #### Binder
 
@@ -242,20 +243,24 @@ Binder bieten eine Möglichkeit, die weibliche Brust zu kaschieren, damit eine m
 **Sicherheitshinweise:**
 
 * Nie einen zu kleinen Binder tragen
-* Nie im Binder schlafen (auch kein Nickerchen)
 * Immer messen. Nie davon ausgehen, dass unterschiedliche Firmen die selben Maße habe
+* Nie im Binder schlafen (auch kein Nickerchen)
 * Nie mehr als maximal 8 Stunden am Tag tragen (zwischendurch öfters mal ausziehen)
 * Nicht beim Sport tragen (außer der Binder ist eine Größe größer)
-* Binder immer ausziehen wenn etwas weh tut!
+* Binder immer ausziehen sobald etwas weh tut! (Sport BH oder Hoodie dabei haben)
+* Keine billigen Binder von Amazon oder Co. kaufen (unter Umständen gesundheitsschädlich)
 * Nicht mit elastischen Binden oder Klebeband (Panzer- oder Gaffatape)
-Kinesio Tape isst in Ordnung
+Kinesio Tape ist in Ordnung
+* Wenn Schmerzen entstehen ärztlichen Rat aufsuchen
 
 Hilfreiche Quellen zu Binders:
 
 * **[TransX Binder][61]**
-* **[Hello Clue][62]** (leider auf englisch)
+* **[Hello Clue][62]** (englisch)
+* **[Transgender Teen Survival Guide][113]** (englisch)
 * **[Transmann Binder][63]**
 * **[Nibispace: Binder][111]**
+* **Lokale Selbsthilfegruppen [Google][6]**
 
 
 Shops:
@@ -270,7 +275,25 @@ Shops:
 
 ##### Binding mittels Kinesio Tape
 
-TODO!
+Anleitung:
+
+* Teste das Kinesio Tape auf deiner Haut, am besten für 24h und weit von der Brust weg (zB auf dem unteren Rücken oder oberhalb des Ellenbogens)
+* Wenn du es verträgst: beginne mit sauberer und trockener Haut (nicht eincremen vorher)
+* Versuche das Tape von der Mitte zur Aussenseite der Brust zu bekommen und dabei die Brust nach aussen oben zu schieben. Am besten bereitest du dafür mehrere Streifen von ca 10-15cm Länge vor, und rundest die Ecken ab
+* Du klebst den Streifen circa 1-2 cm ohne Zug (!) in der Mitte der Brust auf, dann legst du ein Stück weiches Papier zB Taschentuch auf den Nippel und ziehst das Tape und die Brust mit Spannung zur Seite, und am Ende wieder ca 2cm ohne Spannung ankleben. Es kann sein das du 2-3 Streifen (je nach breite) pro Seite brauchst. 
+* Beim ablösen (nach maximal 5 Tagen): 
+Baby Öl großzügig auf das Tape auftragen, circa 30 min einwirken lassen. Dann unter die Dusche gehen und von innen nach aussen das Tape abziehen. 
+Danach die Haut pflegen und mindestens 2 Tage der Haut Zeit geben sich zu regenerieren (das bedeutet nicht tapen!)
+
+
+Video:
+
+* **[TikTok Tape Binding][114]**
+* **[YouTube: KT Tape Dos and Don'ts | FTM Binding][115]**
+
+Sicherheitshinweis:
+
+Niemals das Tape auf irritierten oder verletzten Stellen benutzen. Offene Wunden, Blasen oder Irritation die nicht verschwinden ärztlich überprüfen lassen. 
 
 #### Packing
 
@@ -279,7 +302,6 @@ Packing ist eine Methode um einen männlichen Schritt zu erreichen. Hierzu gibt 
 ##### DIY Packer
 
 Socken einfach zusammengerollt oder elaboriert in Penisform bringen (für die Optik). Mit zum Beispiel Reis befüllt erreicht eins auch ein entsprechendes Gewicht, wenn dies erwünscht ist.
-Oder etwas Knetmasse, Haargel in ein Kondom füllen.
 
 
 Links:
@@ -300,7 +322,7 @@ Um einen männlichen Schritt zu erreichen, eignen sich sogenannte Penisepithesen
 
 Shops:
 
-* **[Transguysupply: Mr. Limpy][112]**
+* **[Other-Nature: Mr. Limpy][112]**
 
 
 
@@ -328,6 +350,7 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 * **[Genderdings][79]**
 * **[Geschicktgendern][80]**
 * **[Formulare Queer Lexicon][85]** (veraltet; auf Basis der 2009er Richtlinien erstellt)
+* **[Nonbinary.ch][116]**
 
 ## Videomaterial
 
@@ -378,10 +401,11 @@ TODO: Mehr?
 
 ### Büchershops
 
-* **[Transfable][82]**
-
-TODO: Mehr
-
+* **[Transfabel][82]**
+* **[Shesaid][117]**
+* **[Löwenherz][118]**
+* **[Queerbooks][119]**
+* **[Clicklit][120]**
 
 
 [1]: johanna4711@zohomail.eu 
@@ -495,4 +519,13 @@ TODO: Mehr
 [109]: https://nibi.space/packer
 [110]: https://transmann.de/trans-informationen/allgemeine-tipps/#Stuffer%20und%20Pinkelhilfen
 [111]: https://nibi.space/binding?redirect=1
-[112]: https://transguysupply.com/products/mr-limpy
+[112]: https://other-nature.de/de/gender/mr-limpy
+[113]: https://transgenderteensurvivalguide.com/bindingfaq
+[114]: https://www.tiktok.com/@restless_space_cadet/video/6930709745791683846?_d=secCgYIASAHKAESPgo81Q435nKiH2aU496mm0e4SMd%2BMNAyYc5KmWUFR3QSgMlMN7omF2hzqJTpGeRFwqY3kddeOPX8vVoCmDtzGgA%3D&checksum=a7261708ded10da3ae7834deb03590caca808a9268669efe085df23c831fef29&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAZLE_C9DEWY6O6adGeCmQYShMzuBelmj50pIvKxs0HxU3_MkYu6RdcOaGThXvUqKB&share_app_id=1233&share_item_id=6930709745791683846&share_link_id=51B4D5D4-3223-4012-A762-C2371BBF6D05&source=h5_m&timestamp=1636556000&tt_from=copy&u_code=dbgm082bi5iejl&user_id=6809690548343030790&utm_campaign=client_share&utm_medium=ios&utm_source=copy&_r=1
+[115]: https://www.youtube.com/watch?v=LQuHk4oqqQo
+[116]: https://www.nonbinary.ch/chri/
+[117]: http://www.shesaid.de
+[118]: https://www.loewenherz.at
+[119]: https://www.queerbooks.ch
+[120]: http://chicklit.at
+[121]: https://twitter.com/mardikrass

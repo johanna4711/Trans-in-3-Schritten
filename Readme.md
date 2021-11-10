@@ -29,13 +29,13 @@ Inhaltsverzeichnis
       * [Kliniken](#kliniken)
          * [Mann zu Frau](#mann-zu-frau)
    * [Spezifische Angleichungen](#spezifische-angleichungen)
-      * [Transfeminine Personen (umgangssprachlich auch Mann-zu-Frau genannt)](#transfeminine-personen-umgangssprachlich-auch-mann-zu-frau-genannt)
+      * [Transfeminine Personen](#transfeminine-personen)
          * [Tucking](#tucking)
          * [Logopädie](#logopädie)
          * [Bartepilation](#bartepilation)
          * [Brustaufbau](#brustaufbau)
          * [Gesichtsfeminisierung (FFS), chirurgische Stimmfeminisierung (VFS), tracheal Shave, Rippensektion](#gesichtsfeminisierung-ffs-chirurgische-stimmfeminisierung-vfs-tracheal-shave-rippensektion)
-      * [Transmaskuline Personen (umgangssprachlich auch Frau-zu-Mann genannt)](#transmaskuline-personen-umgangssprachlich-auch-frau-zu-mann-genannt)
+      * [Transmaskuline Personen](#transmaskuline-personen)
          * [Binder](#binder)
             * [Binding mittels Kinesio Tape](#binding-mittels-kinesio-tape)
          * [Packing](#packing)
@@ -239,7 +239,7 @@ Weitere Kliniken finden sich bei **[gendertreff][23]** (Ruf bei einigen nicht be
 
 ## Spezifische Angleichungen
 
-### Transfeminine Personen (umgangssprachlich auch Mann-zu-Frau genannt)
+### Transfeminine Personen
 
 #### Tucking
 
@@ -286,7 +286,7 @@ Voraussetzungen:
 * Erscheinungsbild noch nicht gut genug angeglichen (Beweisfotos)
 * Kostenvoranschlag
 
-### Transmaskuline Personen (umgangssprachlich auch Frau-zu-Mann genannt)
+### Transmaskuline Personen
 
 #### Binder
 

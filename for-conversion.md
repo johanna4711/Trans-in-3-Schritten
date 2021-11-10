@@ -187,7 +187,7 @@ Weitere Kliniken finden sich bei **[gendertreff][23]** (Ruf bei einigen nicht be
 
 ## Spezifische Angleichungen
 
-### Transfeminine Personen (umgangssprachlich auch Mann-zu-Frau genannt)
+### Transfeminine Personen
 
 #### Tucking
 
@@ -234,7 +234,7 @@ Voraussetzungen:
 * Erscheinungsbild noch nicht gut genug angeglichen (Beweisfotos)
 * Kostenvoranschlag
 
-### Transmaskuline Personen (umgangssprachlich auch Frau-zu-Mann genannt)
+### Transmaskuline Personen
 
 #### Binder
 

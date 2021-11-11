@@ -201,6 +201,7 @@ Hilfreiche Quellen zum Tucking:
 * **[Queer-Lexikon Tucking][58]**
 * **[WikiHow Tucking][59]** (Vorsicht beim Tucken mit Tape!)
 * **[Millions of Peaches Blog][60]**
+* **[Reddit: For those starting out, A short guide to successfully tucking][122]** (englisch)
 
 TODO: Mehr?
 
@@ -535,3 +536,4 @@ TODO: Mehr?
 [119]: https://www.queerbooks.ch
 [120]: http://chicklit.at
 [121]: https://twitter.com/mardikrass
+[122]: https://www.reddit.com/r/MtF/comments/p9m114/for_those_starting_out_a_short_guide_to/

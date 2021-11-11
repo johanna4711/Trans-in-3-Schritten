@@ -336,8 +336,8 @@ Anleitung:
 * Teste das Kinesio Tape auf deiner Haut, am besten für 24h und weit von der Brust weg (zB auf dem unteren Rücken oder oberhalb des Ellenbogens)
 * Wenn du es verträgst: beginne mit sauberer und trockener Haut (nicht eincremen vorher)
 * Versuche das Tape von der Mitte zur Aussenseite der Brust zu bekommen und dabei die Brust nach aussen oben zu schieben. Am besten bereitest du dafür mehrere Streifen von ca 10-15cm Länge vor, und rundest die Ecken ab
-* Du klebst den Streifen circa 1-2 cm ohne Zug (!) in der Mitte der Brust auf, dann legst du ein Stück weiches Papier zB Taschentuch auf den Nippel und ziehst das Tape und die Brust mit Spannung zur Seite, und am Ende wieder ca 2cm ohne Spannung ankleben. Es kann sein das du 2-3 Streifen (je nach breite) pro Seite brauchst. 
-* Beim ablösen (nach maximal 5 Tagen): 
+* Du klebst den Streifen circa 1-2 cm ohne Zug (!) in der Mitte der Brust auf, dann legst du ein Stück weiches Papier zB Taschentuch auf den Nippel und ziehst das Tape und die Brust mit Spannung zur Seite, und am Ende wieder ca 2cm ohne Spannung ankleben. Es kann sein das du 2-3 Streifen (je nach Breite) pro Seite brauchst. 
+* Beim Ablösen (nach maximal 5 Tagen): 
 Baby Öl großzügig auf das Tape auftragen, circa 30 min einwirken lassen. Dann unter die Dusche gehen und von innen nach aussen das Tape abziehen. 
 Danach die Haut pflegen und mindestens 2 Tage der Haut Zeit geben sich zu regenerieren (das bedeutet nicht tapen!)
 
@@ -353,7 +353,7 @@ Niemals das Tape auf irritierten oder verletzten Stellen benutzen. Offene Wunden
 
 #### Packing
 
-Packing ist eine Methode um einen männlichen Schritt zu erreichen. Hierzu gibt es diverse Möglichkeiten.
+Packing ist eine Methode um einen wie durch einen Penis ausgefüllten Schritt zu erreichen. Hierzu gibt es diverse Möglichkeiten.
 
 ##### DIY Packer
 
@@ -383,7 +383,7 @@ Shops:
 
 #### Mastektomie
 
-Falls es erwünscht ist, können die Brüste chirurgisch entfernt werden, damit eine männliche Brust entsteht. Die Voraussetzungen dafür sind:
+Falls es erwünscht ist, können die Brüste chirurgisch entfernt werden, damit eine flache Brust (ohne Busen) entsteht. Die Voraussetzungen dafür sind:
 * 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten
 * Kostenvoranschlag
 
@@ -407,12 +407,16 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 
 ## Gendern
 
+Am besten ist es inklusive Sprache zu benutzen. Informationen dazu kann eins hier finden:
+
 * **[Genderdings][79]**
 * **[Geschicktgendern][80]**
 * **[DBSV][125]**
 * **[Duden Gendern][126]**
 
 ## Pronomen
+
+Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt bekommt. Informationen dazu können hier gefunden werden:
 
 * **[Nibi-Space: Pronomen][127]**
 * **[Nonbinarytransgermany: Pronomen][128]**

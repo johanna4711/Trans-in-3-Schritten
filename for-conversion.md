@@ -107,8 +107,8 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 ### Binär trans\*
 
 Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über **[Google][6]** zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
-Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (**[Google][6]**) nach geeigneten (trans\* freundlichen) Therapeut\*innen zu fragen.
-Eine weitere Möglichkeit geeignete Therapeut\*innen zu finden ist über das Subreddit **[Reddit: GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
+Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (**[Google][6]**) nach geeigneten (trans\* freundlichem) therapeutischen Fachpersonal zu fragen.
+Eine weitere Möglichkeit geeignetes therapeutisches Fachpersonal zu finden ist über das Subreddit **[Reddit: GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
 
 Eins kann es auch über den Weg des PStGs §45b versuchen, ein Erfolg hierbei ist allerdings nicht garantiert.
 
@@ -125,19 +125,19 @@ Es kann (vor allem via des TSGs) einige Zeit dauern, bis der Vorname bzw. der Pe
 
 Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzungen zu beachten. An dieser Stelle ein **wichtiger Hinweis**. Medizinische Transition ist ein Angebot, das nicht wahrgenommen werden muss, damit eins trans\* ist. Jeder Mensch hat andere Bedürfnisse! Die MDS Richtlinien gelten nur für Personen über 18. Die Diagnose F64.0 ist nur für Personen über 18 zulässig, ansonsten ist es F64.2.
 
-Leitlinien für trans\* Patient\*innen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
+Leitlinien für zu behandelnde trans\* Personen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
 ## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
 
 ### Voraussetzungen
 
-Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. So ein Indikationsschreiben bekommt eins von Therapeut\*innen (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Aber es gibt durchaus Therapeut\*innen, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
-Wenn eins dieses Schreiben hat, kann damit zu Endokrinolog\*innen/Urolog\*innen/Gynäkolog\*innen gegangen werden.
+Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
+Wenn eins dieses Schreiben hat, kann damit zu endokrinologischen/urologischen/gynäkologischen Fachkraft gegangen werden.
 
 
-### Ärzt\*innen
+### Ärztliches Fachpersonal
 
-Ärzt\*innen kann eins unter Anderem hier finden:
+Ärztliches Fachpersonal kann eins unter Anderem hier finden:
 
 * **[transmann][18]**
 * **[queermed-deutschland][89]**
@@ -207,7 +207,7 @@ TODO: Mehr?
 
 #### Logopädie
 
-Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von HNO Arzt\*innen oder Hausärzt\*innen kommen. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit][15]** fragen nach guten Praxen fragen).
+Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von auf HNO spezialisiertem ärztlichen Personal oder von der hausärztlichen Fachkraft kommen. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit][15]** fragen nach guten Praxen fragen).
 
 #### Bartepilation
 
@@ -261,6 +261,7 @@ Hilfreiche Quellen zu Binders:
 * **[Transgender Teen Survival Guide][113]** (englisch)
 * **[Transmann Binder][63]**
 * **[Nibispace: Binder][111]**
+* **[Queer-Lexikon Binder][123]**
 * **Lokale Selbsthilfegruppen [Google][6]**
 
 
@@ -337,6 +338,8 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 
 # Weitere nützliche/informative Links/ Sammlungen von Links
 
+## Gendern
+
 * **[Gender Dysphorie Bibel][32]** (sehr umfangreich)
 * **[Ilians MEGA Thread][25]** (viele nützliche Informationen)
 * **[Das Jaddy-Blog][26]** (sehr informativ, legt auch einen großes Augenmerk auf nicht-binäre Menschen)
@@ -352,6 +355,18 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 * **[Geschicktgendern][80]**
 * **[Formulare Queer Lexicon][85]** (veraltet; auf Basis der 2009er Richtlinien erstellt)
 * **[Nonbinary.ch][116]**
+* **[DBSV][125]**
+* **[Duden Gendern][126]**
+
+## Pronomen
+
+* **[Nibi-Space: Pronomen][127]**
+* **[Nonbinarytransgermany: Pronomen][128]**
+* **[BR][129]**
+* **[Wikipedia: Nichtbinäre Geschlächtsidendität - Pronomen][130]**
+* **[Jetzt: Welches Pronomen nutzt man][131]**
+* **[Echte-Vielfalt: misgendering tut weh][132]**
+
 
 ## Videomaterial
 
@@ -363,6 +378,7 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 * **[YouTube: WDR Doku - Transgender-Kinder][95]**
 * **[YouTube: WDR Doku - Wer bin ich? Trans* Jugendliche][96]**
 * **[YouTube: Der Spiegel - Transgender: Endlich im richtigen Körper][97]**
+* **[YouTube: Anders Amen][124]** (manchmal was zum Thema trans\*)
 
 TODO: Mehr?
 
@@ -537,3 +553,13 @@ TODO: Mehr?
 [120]: http://chicklit.at
 [121]: https://twitter.com/mardikrass
 [122]: https://www.reddit.com/r/MtF/comments/p9m114/for_those_starting_out_a_short_guide_to/
+[123]: https://queer-lexikon.net/wp-content/uploads/2019/07/Brosch%C3%BCre_Binder_Femref.pdf
+[124]: https://www.youtube.com/channel/UC8GQAXuJ_DpNg6hu1HHM73w
+[125]: https://www.dbsv.org/gendern.html
+[126]: https://www.duden.de/rund-um-die-sprache/sprache-und-stil/Gendern
+[127]: https://nibi.space/pronomen
+[128]: https://nonbinarytransgermany.tumblr.com/language
+[129]: https://www.br.de/puls/ansprache-nonbinary-people-100.html
+[130]: https://de.wikipedia.org/wiki/Nichtbin%C3%A4re_Geschlechtsidentit%C3%A4t#Pers%C3%B6nliche_Pronomen_und_Anrede
+[131]: https://www.jetzt.de/gender/welches-pronomen-benutzt-man-bei-menschen-die-sich-weder-als-mann-noch-als-frau-definieren
+[132]: https://echte-vielfalt.de/lebensbereiche/lsbtiq/trans/misgendering-tut-weh-warum-wir-pronomen-respektieren-sollten/

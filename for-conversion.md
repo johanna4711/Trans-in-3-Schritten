@@ -338,8 +338,6 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 
 # Weitere nützliche/informative Links/ Sammlungen von Links
 
-## Gendern
-
 * **[Gender Dysphorie Bibel][32]** (sehr umfangreich)
 * **[Ilians MEGA Thread][25]** (viele nützliche Informationen)
 * **[Das Jaddy-Blog][26]** (sehr informativ, legt auch einen großes Augenmerk auf nicht-binäre Menschen)
@@ -351,10 +349,13 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 * **[Queer-Lexikon][37]**
 * **[Nibi-Space][38]**
 * **[Regenbogenportal Informationen][78]**
-* **[Genderdings][79]**
-* **[Geschicktgendern][80]**
 * **[Formulare Queer Lexicon][85]** (veraltet; auf Basis der 2009er Richtlinien erstellt)
 * **[Nonbinary.ch][116]**
+
+## Gendern
+
+* **[Genderdings][79]**
+* **[Geschicktgendern][80]**
 * **[DBSV][125]**
 * **[Duden Gendern][126]**
 

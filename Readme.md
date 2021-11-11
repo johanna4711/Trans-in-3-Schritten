@@ -258,7 +258,6 @@ Hilfreiche Quellen zum Tucking:
 * **[Millions of Peaches Blog][60]**
 * **[Reddit: For those starting out, A short guide to successfully tucking][122]** (englisch)
 
-TODO: Mehr?
 
 #### Logopädie
 
@@ -371,7 +370,6 @@ Anleitungen:
 * **[Transguysupply][107]** (englisch)
 * **[YouTube: Hilfsmittel Packer | Anleitung für DIY-Socken-Packer][108]**
 
-TODO: Mehr?
 
 ##### Penisepithesen
 
@@ -436,8 +434,6 @@ Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke
 * **[YouTube: Der Spiegel - Transgender: Endlich im richtigen Körper][97]**
 * **[YouTube: Anders Amen][124]** (manchmal was zum Thema trans\*)
 
-TODO: Mehr?
-
 
 ## Literatur
 
@@ -455,7 +451,6 @@ TODO: Mehr?
 * **Mein Kind ist transgender. - und jetzt?** von **Dr. Michele Angello und Alisa Bowman**
 * **Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrationshintergrund** von **Jayrôme C. Robinet**
 
-TODO: Mehr?
 
 ### Glauben und trans*
 

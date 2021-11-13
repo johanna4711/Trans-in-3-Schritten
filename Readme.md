@@ -90,6 +90,10 @@ Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**,
 
 Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häufig genutzte Abkürzungen in diesem Kontext sind FzM und MtF. Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
 
+Trans Frauen: Sind Frauen denen zumeist bei der Geburt das männliche Geschlecht zugewiesen wurde.
+
+Trans Mann: Sind Männer denen zumeist bei der Geburt das weibliche Geschlecht zugewiesen wurde.
+
 
 ### Was ist nichtbinär trans\*?
 
@@ -137,6 +141,7 @@ Die Liste ist nicht vollständig, bietet aber ein paar Anlaufstellen:
 * **[Sofahopper][67]** (Vermittelt Jugendliche bis 27 Jahren, die zuhause rausgeflogen sind, in feste Wohnverhältnisse)
 * **[Kuss41][69]** (Queeres Jugendzentrum in Frankfurt am Main)
 * **[RosaHilfe][79]** (trans\* Kindergruppe Freiburg)
+* **[Queer-Lexikon][37]**
 
 # Coming-Out
 

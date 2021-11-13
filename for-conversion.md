@@ -36,9 +36,9 @@ Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**,
 
 Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben. Das bei der Geburt zugewiesene Geschlecht wird umgangssprachlich auch assigned gender at birth AGAB genannt. Häufig genutzte Abkürzungen in diesem Kontext sind FzM und MtF (wobei diese veraltet sind, aber leider noch im Gebrauch sind). Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
 
-Trans Frauen: Sind Frauen denen zumeist bei der Geburt das männliche Geschlecht zugewiesen wurde.
+Eine trans\* Frau ist eine Frau, deren AGAB nicht weiblich ist.
 
-Trans Mann: Sind Männer denen zumeist bei der Geburt das weibliche Geschlecht zugewiesen wurde.
+Ein trans\* Mann ist ein Mann, dessen AGAB nicht männlich ist.
 
 
 ### Was ist nichtbinär trans\*?

@@ -27,7 +27,6 @@ Inhaltsverzeichnis
       * [Ärztliches Fachpersonal](#ärztliches-fachpersonal)
    * [Genitalangleichende Operation (GAOP)](#genitalangleichende-operation-gaop)
       * [Kliniken](#kliniken)
-         * [Mann zu Frau](#mann-zu-frau)
    * [Spezifische Angleichungen](#spezifische-angleichungen)
       * [Transfeminine Personen](#transfeminine-personen)
          * [Tucking](#tucking)
@@ -182,11 +181,15 @@ Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzunge
 
 Leitlinien für zu behandelnde trans\* Personen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
+Für die medizinischen Maßnahmen sind Indikationsschreiben erforderlich. 
+So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
+
+
 ## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
 
 ### Voraussetzungen
 
-Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
+Damit mit der HRT angefangen werden kann, benötigt eins ein Indikationsschreiben. 
 Wenn eins dieses Schreiben hat, kann damit zu endokrinologischen/urologischen/gynäkologischen Fachkraft gegangen werden.
 
 
@@ -232,11 +235,7 @@ Bekannte und renommierte Kliniken sind unter Anderem:
 * **[Evangelische Kliniken Essen-Mitte][43]**
 * **[Helios Universitätsklinikum Wuppertal][55]**
 * **[Universitätsklinik der Otto-von-Guericke-Universität Magdeburg][56]**
-
-
-#### Mann zu Frau
-
-* **[Klinikum Weiden][51]**
+* **[Klinikum Weiden][51]** (nur Vaginoplastik)
 
 Weitere Kliniken finden sich bei **[gendertreff][23]** (Ruf bei einigen nicht bekannt).
 

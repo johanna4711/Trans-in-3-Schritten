@@ -293,7 +293,7 @@ Voraussetzungen:
 
 #### Binder
 
-Binder bieten eine Möglichkeit, die weibliche Brust zu kaschieren, damit eine männliche Brustform entsteht. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
+Binder bieten eine Möglichkeit, die weibliche Brust zu kaschieren, damit eine flache Brust (ohne Busen) entsteht. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
 
 **Sicherheitshinweise:**
 

@@ -88,7 +88,7 @@ Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**,
 
 ### Was ist binär trans\*?
 
-Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häufig genutzte Abkürzungen in diesem Kontext sind FzM und MtF. Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
+Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häufig genutzte Abkürzungen in diesem Kontext sind FzM und MtF (wobei diese veraltet sind, aber leider noch im Gebrauch sind). Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
 
 Trans Frauen: Sind Frauen denen zumeist bei der Geburt das männliche Geschlecht zugewiesen wurde.
 
@@ -297,7 +297,7 @@ Voraussetzungen:
 
 #### Binder
 
-Binder bieten die Möglichkeit, eine flache Brust zu erhalten. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
+Binder bieten die Möglichkeit, eine flachere Brust zu erhalten. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
 
 **Sicherheitshinweise:**
 

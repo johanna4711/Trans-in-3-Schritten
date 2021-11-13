@@ -88,7 +88,7 @@ Weiterführende Informationen findet eins unter **[Nibispace Transgender][86]**,
 
 ### Was ist binär trans\*?
 
-Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häuft ist MzF (Mann-zu-Frau) oder FzM (Frau-zu-Mann) ein Akronym dafür. Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
+Man spricht von binär trans\* wenn Menschen Mann oder Frau sind, aber bei der Geburt nicht dieses Geschlecht zugewiesen bekommen haben (umgangssprachlich auch assigned gender at birth AGAB genannt). Häufig genutzte Abkürzungen in diesem Kontext sind FzM und MtF. Binär bedeutet hier Frau oder Mann und wer das eine ist, ist nicht das andere, wie beim Computer.
 
 
 ### Was ist nichtbinär trans\*?
@@ -105,7 +105,7 @@ Weiterführende Informationen findet eins unter **[Nibispace Nichtbinär][87]**,
 Hier sind mal ein paar Beratungsstellen aufgelistet.
 
 ## Lokale Selbsthilfegruppen
-Gute Anlaufstellen sind meist die lokalen Selbsthilfegruppen (gut zu finden via **[Google][6]**, ortsabhängig).
+Gute Anlaufstellen sind meist die lokalen Selbsthilfegruppen (gut zu finden über das Internet; Wohnort oder nächstgrößere Stadt trans\* SHG; ortsabhängig).
 
 ## Weitere Anlaufstellen:
 Die Liste ist nicht vollständig, bietet aber ein paar Anlaufstellen:
@@ -160,8 +160,8 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 
 ### Binär trans\*
 
-Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über **[Google][6]** zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
-Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (**[Google][6]**) nach geeigneten (trans\* freundlichem) therapeutischen Fachpersonal zu fragen.
+Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über das Internet zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
+Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (Internet) nach geeigneten (trans\* freundlichen) therapeutischen Fachpersonal zu fragen.
 Eine weitere Möglichkeit geeignetes therapeutisches Fachpersonal zu finden ist über das Subreddit **[Reddit: GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
 
 Eins kann es auch über den Weg des PStGs §45b versuchen, ein Erfolg hierbei ist allerdings nicht garantiert.
@@ -182,7 +182,7 @@ Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzunge
 Leitlinien für zu behandelnde trans\* Personen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
 Für die medizinischen Maßnahmen sind Indikationsschreiben erforderlich. 
-So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit: GermanTrans][15]** fragen).
+So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit: GermanTrans][15]** fragen).
 
 
 ## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
@@ -200,14 +200,14 @@ Wenn eins dieses Schreiben hat, kann damit zu endokrinologischen/urologischen/gy
 * **[transmann][18]**
 * **[queermed-deutschland][89]**
 * **[gynformation][19]**
-* lokale Selbsthilfegruppen (**[Google][6]**)
+* lokale Selbsthilfegruppen (Internet)
 * **[Reddit: GermanTrans][15]**
 
 ## Genitalangleichende Operation (GAOP)
 
 Voraussetzungen für die GAOP sind:
 
-* 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten
+* Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * 1 Jahr Alltagstest (leben im eigentlichen Geschlecht)
 * Kostenvoranschlag der Klinik, die die Operation durchführt (nur Klinik Sanssouci)
 * 2 unabhänige, psychologische Gutachten  (werden nicht von allen Kliniken gefordert)
@@ -245,7 +245,7 @@ Weitere Kliniken finden sich bei **[gendertreff][23]** (Ruf bei einigen nicht be
 
 #### Tucking
 
-Tucking ist eine Methode mit der eins die männlichen Genitalien so verbergen kann, dass auch eng geschnittene Kleidung getragen werden kann.
+Tucking ist eine Methode damit eins den Penis und/oder Hoden so verbergen kann, dass auch eng geschnittene Kleidung getragen werden kann.
 
 Für einige trans\* Frauen ist dies eine effektive Möglichkeit der Genitaldysphorie etwas entgegenzuwirken (bis die GAOP stattfindet; sofern erwünscht).
 
@@ -260,21 +260,21 @@ Hilfreiche Quellen zum Tucking:
 
 #### Logopädie
 
-Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von auf HNO spezialisiertem ärztlichen Personal oder von der hausärztlichen Fachkraft kommen. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (**[Google][6]**) oder **[Reddit][15]** fragen nach guten Praxen fragen).
+Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von auf HNO spezialisiertem ärztlichen Personal oder von der hausärztlichen Fachkraft kommen. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit][15]** fragen nach guten Praxen fragen).
 
 #### Bartepilation
 
 Falls der Bart entfernt werden sollen, benötigt eins:
 
 * eine ärztliche Praxis
-* 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten-
+* Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * Kostenvoranschlag
 
 #### Brustaufbau
 
 Wenn nach 2 Jahren das Brustwachstum kleiner als ein A-Körbchen ist, kann eins einen Brustaufbau beantragen. Voraussetzungen dafür sind:
 
-* 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten
+* Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * 1 Jahr Alltagstest (leben im eigentlichen Geschlecht)
 * 2 Jahre HRT, Brüste kleiner als A-Körbchen
 * Kostenvoranschlag
@@ -283,7 +283,7 @@ Wenn nach 2 Jahren das Brustwachstum kleiner als ein A-Körbchen ist, kann eins 
 Dies ist schwierig von den Krankenkassen genehmigt zu bekommen (wird oft/meistens abgelehnt, aber eins kann es versuchen).
 Voraussetzungen:
 
-* 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten
+* Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * 1 Jahr Alltagstest-
 * Erscheinungsbild noch nicht gut genug angeglichen (Beweisfotos)
 * Kostenvoranschlag
@@ -292,7 +292,7 @@ Voraussetzungen:
 
 #### Binder
 
-Binder bieten eine Möglichkeit, die weibliche Brust zu kaschieren, damit eine flache Brust (ohne Busen) entsteht. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
+Binder bieten die Möglichkeit, eine flache Brust zu erhalten. Für einige trans\* Männer ist dies eine effektive Möglichkeit der Dysphorie etwas entgegenzuwirken (bis die Mastektomie stattfindet; sofern erwünscht).
 
 **Sicherheitshinweise:**
 
@@ -315,7 +315,7 @@ Hilfreiche Quellen zu Binders:
 * **[Transmann Binder][63]**
 * **[Nibispace: Binder][111]**
 * **[Queer-Lexikon Binder][123]**
-* **Lokale Selbsthilfegruppen [Google][6]**
+* **Lokale Selbsthilfegruppen** (Internet)
 
 
 Shops:
@@ -372,7 +372,7 @@ Anleitungen:
 
 ##### Penisepithesen
 
-Um einen männlichen Schritt zu erreichen, eignen sich sogenannte Penisepithesen sehr gut (bis die GAOP vollzogen ist; sofern dies erwünscht ist). Unter **[Penisepithesen Sofia][84]** findet eins weitere Informationen.
+Penisepithesen eignen sich um einen wie durch einen Penis ausgefüllten Schritt zu erreichen (bis die GAOP vollzogen ist; sofern dies erwünscht ist). Unter **[Penisepithesen Sofia][84]** findet eins weitere Informationen.
 
 Shops:
 
@@ -383,7 +383,7 @@ Shops:
 #### Mastektomie
 
 Falls es erwünscht ist, können die Brüste chirurgisch entfernt werden, damit eine flache Brust (ohne Busen) entsteht. Die Voraussetzungen dafür sind:
-* 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten
+* Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * Kostenvoranschlag
 
 Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke sind bei **[RainbowDashieeees][24]** Kommentar auf Reddit zu finden.
@@ -490,7 +490,6 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [3]: https://www.transinterqueer.org/beratung/persoenliche-trans-inter-beratung/
 [4]: https://dgti.org/beratungsstellen.html
 [5]: https://adis-ev.de/beratung/transberatung
-[6]: https://google.de
 [7]: https://www.ellens-blog.de/themen/transsexualitaet/outing
 [8]: https://www.regenbogenportal.de/informationen/comingout-als-trans-oder-transsexuell
 [9]: https://de.wikihow.com/Dich-als-Transgender-outen

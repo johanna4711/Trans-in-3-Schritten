@@ -132,6 +132,7 @@ Die Liste ist nicht vollständig, bietet aber ein paar Anlaufstellen:
 
 * **[Liebe-ist-halal][100]**
 * **[Ibn Rushd - Goehte Moschee][101]** (nur Berlin)
+* **[Liberal-Islamischer Bund e.V.][133]**
 
 
 
@@ -621,3 +622,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [130]: https://de.wikipedia.org/wiki/Nichtbin%C3%A4re_Geschlechtsidentit%C3%A4t#Pers%C3%B6nliche_Pronomen_und_Anrede
 [131]: https://www.jetzt.de/gender/welches-pronomen-benutzt-man-bei-menschen-die-sich-weder-als-mann-noch-als-frau-definieren
 [132]: https://echte-vielfalt.de/lebensbereiche/lsbtiq/trans/misgendering-tut-weh-warum-wir-pronomen-respektieren-sollten/
+[133]: https://lib-ev.jimdo.com

@@ -263,6 +263,9 @@ Hilfreiche Quellen zum Tucking:
 * **[Millions of Peaches Blog][60]**
 * **[Reddit: For those starting out, A short guide to successfully tucking][122]** (englisch)
 
+Shops:
+
+* **[Androwear Tucking wear][136]**
 
 #### Logopädie
 
@@ -380,6 +383,9 @@ Anleitungen:
 * **[Transguysupply][107]** (englisch)
 * **[YouTube: Hilfsmittel Packer | Anleitung für DIY-Socken-Packer][108]**
 
+Packing Underwear:
+
+* **[Androwear Packing Underwear][137]**
 
 ##### Penisepithesen
 
@@ -630,3 +636,5 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [133]: https://lib-ev.jimdo.com
 [134]: https://www.hautarzt-hanau.de/aesthetische-dermatologie/dauerhafte-haarentfernung-mittels-laser-alex/
 [135]: https://www.laser-zentrum-marburg.de/laserzentrum/therapieangebot/unerwuenschte-haare/
+[136]: https://androwear.de/shop/#!/tucking-wear--0x28-gaffs-0x29-/sort/manual
+[137]: https://androwear.de/shop/#!/packing-underwear/sort/manual

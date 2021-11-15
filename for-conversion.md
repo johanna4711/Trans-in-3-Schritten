@@ -1,4 +1,4 @@
-# Trans* in 3 Schritten
+# Trans\* in 3 Schritten
 
 In diesem Dokument befindet sich eine kleine Hilfestellung die bei der Transition behilflich sein kann.
 
@@ -13,8 +13,8 @@ Credits:
 * **[Luna][35]**
 * **[Mar][121]**
 * **[Joelina][102]**
-* **[TRANS*WIS][48]**
-* **[TRANS*SN][49]**
+* **[TRANS\*WIS][48]**
+* **[TRANS\*SN][49]**
 * **[TGG][50]**
 * **Alle die, die Websites pflegen, aktuell halten und die Informationen zusammengetragen haben** (sind leider zu viele hier alle zu erwähnen, sorry)
 
@@ -71,10 +71,10 @@ Die Liste ist nicht vollständig, bietet aber ein paar Anlaufstellen:
 * **[Aidshilfe Trans][75]** (Online Beratung für erwachsene trans\* Frauen)
 * **[TGNS][76]** (Schweizweites Beratungsnetzwerk)
 * **[HAZ][77]** (Anlaufstelle für queere Personen in Zürich)
-* **[ZIVD][98]** (für queere und geflüchtete trans* Menschen)
-* **[Queerbase][99]** (für queere und geflüchtete trans* Menschen)
+* **[ZIVD][98]** (für queere und geflüchtete trans\* Menschen)
+* **[Queerbase][99]** (für queere und geflüchtete trans\* Menschen)
 
-### Anlaufstellen für muslimische queere und trans* Menschen
+### Anlaufstellen für muslimische queere und trans\* Menschen
 
 * **[Liebe-ist-halal][100]**
 * **[Ibn Rushd - Goehte Moschee][101]** (nur Berlin)
@@ -216,11 +216,15 @@ Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelv
 
 #### Bartepilation
 
-Falls der Bart entfernt werden sollen, benötigt eins:
+Falls der Bart entfernt werden soll, benötigt eins:
 
 * eine ärztliche Praxis
 * Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * Kostenvoranschlag
+
+**[Informationen zur Epilation mit Alexandritlaser 1][134]**
+
+**[Informationen zur Epilation mit Alexandritlaser 2][135]**
 
 #### Brustaufbau
 
@@ -232,6 +236,7 @@ Wenn nach 2 Jahren das Brustwachstum kleiner als ein A-Körbchen ist, kann eins 
 * Kostenvoranschlag
 
 #### Gesichtsfeminisierung (FFS), chirurgische Stimmfeminisierung (VFS), tracheal Shave, Rippensektion
+
 Dies ist schwierig von den Krankenkassen genehmigt zu bekommen (wird oft/meistens abgelehnt, aber eins kann es versuchen).
 Voraussetzungen:
 
@@ -289,8 +294,8 @@ Anleitung:
 * Versuche das Tape von der Mitte zur Aussenseite der Brust zu bekommen und dabei die Brust nach aussen oben zu schieben. Am besten bereitest du dafür mehrere Streifen von ca 10-15cm Länge vor, und rundest die Ecken ab
 * Du klebst den Streifen circa 1-2 cm ohne Zug (!) in der Mitte der Brust auf, dann legst du ein Stück weiches Papier zB Taschentuch auf den Nippel und ziehst das Tape und die Brust mit Spannung zur Seite, und am Ende wieder ca 2cm ohne Spannung ankleben. Es kann sein das du 2-3 Streifen (je nach Breite) pro Seite brauchst. 
 * Beim Ablösen (nach maximal 5 Tagen): 
-Baby Öl großzügig auf das Tape auftragen, circa 30 min einwirken lassen. Dann unter die Dusche gehen und von innen nach aussen das Tape abziehen. 
-Danach die Haut pflegen und mindestens 2 Tage der Haut Zeit geben sich zu regenerieren (das bedeutet nicht tapen!)
+  Baby Öl großzügig auf das Tape auftragen, circa 30 min einwirken lassen. Dann unter die Dusche gehen und von innen nach aussen das Tape abziehen. 
+  Danach die Haut pflegen und mindestens 2 Tage der Haut Zeit geben sich zu regenerieren (das bedeutet nicht tapen!)
 
 
 Video:
@@ -396,8 +401,8 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 * **Ich bin Linus. Wie ich der Mann wurde der ich schon immer war** von **Linus Giese**
 * **Goodbye Gender** von **Rae Spoon und Ivan E. Coyote**
 * **Begegnungen auf der Trans\*Fläche** vom **Kollektiv Sterne und Steinchen**
-* **Inter\*Trans\*Express**  von **Ika Elvau**
-* **Identitätskrise 2.0**  von **Ika Elvau**
+* **Inter\*Trans\*Express** von **Ika Elvau**
+* **Identitätskrise 2.0** von **Ika Elvau**
 * **Beyond the Gender Binary** von **Alok Vaid-Menon** (englisch)
 * **Antiqueere Ideologie. Die Suche nach identitärer Sicherheit - und was politische Bildung dagegen ausrichten kann** von **Hannah Engelmann**
 * **Black in both sides. A Racial History of Trans Identity** von **C. Riley Snorton** (englisch)
@@ -407,7 +412,7 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 * **Mein Weg von einer weißen Frau zu einem jungen Mann mit Migrationshintergrund** von **Jayrôme C. Robinet**
 
 
-### Glauben und trans*
+### Glauben und trans\*
 
 #### christliche Glaubensausrichtung
 
@@ -437,7 +442,7 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 2. Ausatmen
 3. Trans\* sein - oder auch nicht, wie du magst. Denn du bist du und ob du trans\* bist entscheidest nur du, dafür musst du nicht mehr tun als du zu sein :3
 
-[1]: johanna4711@zohomail.eu 
+[1]: johanna4711@zohomail.eu
 [2]: https://www.trans-ident.de/trans-ident-beratungsstelle
 [3]: https://www.transinterqueer.org/beratung/persoenliche-trans-inter-beratung/
 [4]: https://dgti.org/beratungsstellen.html
@@ -569,3 +574,5 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [131]: https://www.jetzt.de/gender/welches-pronomen-benutzt-man-bei-menschen-die-sich-weder-als-mann-noch-als-frau-definieren
 [132]: https://echte-vielfalt.de/lebensbereiche/lsbtiq/trans/misgendering-tut-weh-warum-wir-pronomen-respektieren-sollten/
 [133]: https://lib-ev.jimdo.com
+[134]: https://www.hautarzt-hanau.de/aesthetische-dermatologie/dauerhafte-haarentfernung-mittels-laser-alex/
+[135]: https://www.laser-zentrum-marburg.de/laserzentrum/therapieangebot/unerwuenschte-haare/

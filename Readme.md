@@ -109,8 +109,8 @@ Weiterführende Informationen findet eins unter **[Nibispace Nichtbinär][87]**,
 # Woher weiß ich ob ich trans\* bin?
 
 Ein guter Hinweis dafür ist bereits, dass du hier gelandet bist und dementsprechend schon eine längere Suche im Internet hinter dir hast. In den seltensten Fällen überlegen cis Personen ob sie trans\* sind. 
-Leider kann dir aber von außen keine Person sagen ob du nun wirklich trans\* bist, denn es ist etwas das nur eins selbst sagen kann. 
-Genauso gibt es keine stereotype an denen es festgemacht werden kann.
+Leider kann dir aber von außen keine Person sagen ob du nun wirklich trans\* bist, denn es ist etwas, das nur eins selbst sagen kann. 
+Genauso gibt es keine Stereotype an denen es festgemacht werden kann.
 Ein relativ guter Anhaltspunkt ist die Gender Euphorie (siehe **[Genderdysphoriebibel][32] in dem Kapitel Gender Euphorie**).
 
 Weitere Möglichkeiten bieten der sogenannte *Button Test* und *Reverse Button Test* (**Achtung: nicht für alle trans\* Personen geeignet; verschiedene, vor allem nichtbinäre Identitäten können aus dem Test rausfallen!**):

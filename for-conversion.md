@@ -62,11 +62,11 @@ Weitere Möglichkeiten bieten der sogenannte *Button Test* und *Reverse Button T
 
 * Button Test:
 
-      Wenn es einen Button gibt der deinen Körper nach deinen Wünschen direkt anpasst und dich für die Umwelt als dein Geschlecht spiegelt und es unumkehrbar ist. Würdest du ihn drücken?
+   Wenn es einen Button gibt der deinen Körper nach deinen Wünschen direkt anpasst und dich für die Umwelt als dein Geschlecht spiegelt und es unumkehrbar ist. Würdest du ihn drücken?
 
 * Reverse Button Test:
 
-      Du hast den Button oben gedrückt und es ist permanent, nun gibt es aber einen der es umkehrbar macht. Würdest du auch diesen drücken?
+   Du hast den Button oben gedrückt und es ist permanent, nun gibt es aber einen der es umkehrbar macht. Würdest du auch diesen drücken?
 
 
 # Beratungsstellen

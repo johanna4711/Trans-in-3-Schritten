@@ -8,6 +8,7 @@ Inhaltsverzeichnis
    * [Was ist trans*?](#was-ist-trans)
       * [Was ist binär trans*?](#was-ist-binär-trans)
       * [Was ist nichtbinär trans*?](#was-ist-nichtbinär-trans)
+* [Woher weiß ich ob ich trans* bin?](#woher-weiß-ich-ob-ich-trans-bin)
 * [Beratungsstellen](#beratungsstellen)
    * [Lokale Selbsthilfegruppen](#lokale-selbsthilfegruppen)
    * [Weitere Anlaufstellen:](#weitere-anlaufstellen)
@@ -104,6 +105,24 @@ Manchmal werden diese spezifischen Geschlechter genauer benannt, manchmal einfac
 Nichtbinäre/abinäre/genderqueere Menschen verstehen sich oft als trans\*. Sie können unterschiedliche Beziehungen zu ihrem Körper haben. Manche verändern Dinge in ihrem Leben oder an ihrem Körper, um sich wohler zu fühlen.
 
 Weiterführende Informationen findet eins unter **[Nibispace Nichtbinär][87]**, **[Genderdysphoriebibel][32]** oder unter **[queer lexikon][88]**.
+
+# Woher weiß ich ob ich trans\* bin?
+
+Ein guter Hinweis dafür ist bereits, dass du hier gelandet bist und dementsprechend schon eine längere Suche im Internet hinter dir hast. In den seltensten Fällen überlegen cis Personen ob sie trans\* sind. 
+Leider kann dir aber von außen keine Person sagen ob du nun wirklich trans\* bist, denn es ist etwas das nur eins selbst sagen kann. 
+Genauso gibt es keine stereotype an denen es festgemacht werden kann.
+Ein relativ guter Anhaltspunkt ist die Gender Euphorie (siehe **[Genderdysphoriebibel][32] in dem Kapitel Gender Euphorie**).
+
+Weitere Möglichkeiten bieten der sogenannte *Button Test* und *Reverse Button Test* (**Achtung: nicht für alle trans\* Personen geeignet; verschiedene, vor allem nichtbinäre Identitäten können aus dem Test rausfallen!**):
+
+* Button Test:
+
+      Wenn es einen Button gibt der deinen Körper nach deinen Wünschen direkt anpasst und dich für die Umwelt als dein Geschlecht spiegelt und es unumkehrbar ist. Würdest du ihn drücken?
+
+* Reverse Button Test:
+
+      Du hast den Button oben gedrückt und es ist permanent, nun gibt es aber einen der es umkehrbar macht. Würdest du auch diesen drücken?
+
 
 # Beratungsstellen
 Hier sind mal ein paar Beratungsstellen aufgelistet.

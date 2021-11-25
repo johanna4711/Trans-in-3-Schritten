@@ -54,8 +54,8 @@ Weiterführende Informationen findet eins unter **[Nibispace Nichtbinär][87]**,
 # Woher weiß ich ob ich trans\* bin?
 
 Ein guter Hinweis dafür ist bereits, dass du hier gelandet bist und dementsprechend schon eine längere Suche im Internet hinter dir hast. In den seltensten Fällen überlegen cis Personen ob sie trans\* sind. 
-Leider kann dir aber von außen keine Person sagen ob du nun wirklich trans\* bist, denn es ist etwas das nur eins selbst sagen kann. 
-Genauso gibt es keine stereotype an denen es festgemacht werden kann.
+Leider kann dir aber von außen keine Person sagen ob du nun wirklich trans\* bist, denn es ist etwas, das nur eins selbst sagen kann. 
+Genauso gibt es keine Stereotype an denen es festgemacht werden kann.
 Ein relativ guter Anhaltspunkt ist die Gender Euphorie (siehe **[Genderdysphoriebibel][32] in dem Kapitel Gender Euphorie**).
 
 Weitere Möglichkeiten bieten der sogenannte *Button Test* und *Reverse Button Test* (**Achtung: nicht für alle trans\* Personen geeignet; verschiedene, vor allem nichtbinäre Identitäten können aus dem Test rausfallen!**):
@@ -172,6 +172,7 @@ Wenn eins dieses Schreiben hat, kann damit zu endokrinologischen/urologischen/gy
 * **[gynformation][19]**
 * lokale Selbsthilfegruppen (Internet)
 * **[Reddit: GermanTrans][15]**
+* **[TransDB][138]** (alle möglichen Fachkräfte)
 
 ## Genitalangleichende Operation (GAOP)
 
@@ -602,3 +603,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [135]: https://www.laser-zentrum-marburg.de/laserzentrum/therapieangebot/unerwuenschte-haare/
 [136]: https://androwear.de/shop/#!/tucking-wear--0x28-gaffs-0x29-/sort/manual
 [137]: https://androwear.de/shop/#!/packing-underwear/sort/manual
+[138]: https://transdb.de

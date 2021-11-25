@@ -227,6 +227,7 @@ Wenn eins dieses Schreiben hat, kann damit zu endokrinologischen/urologischen/gy
 * **[gynformation][19]**
 * lokale Selbsthilfegruppen (Internet)
 * **[Reddit: GermanTrans][15]**
+* **[TransDB][138]** (alle möglichen Fachkräfte)
 
 ## Genitalangleichende Operation (GAOP)
 
@@ -657,3 +658,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [135]: https://www.laser-zentrum-marburg.de/laserzentrum/therapieangebot/unerwuenschte-haare/
 [136]: https://androwear.de/shop/#!/tucking-wear--0x28-gaffs-0x29-/sort/manual
 [137]: https://androwear.de/shop/#!/packing-underwear/sort/manual
+[138]: https://transdb.de

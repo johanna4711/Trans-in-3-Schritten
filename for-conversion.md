@@ -196,7 +196,6 @@ Bekannte und renommierte Kliniken sind unter Anderem:
 * **[Rotkreuzklinikum München][40]** (Achtung Privatklinik zuzahlung bei Mann zu Frau ca. 4000€)
 * **[Klinikum Erding][41]**
 * **[Agaplesion Markus-Krankenhaus Frankfurt am Main][42]**
-* **[Evangelische Elisabeth Klinik Berlin][44]**
 * **[Helios Klinikum Emil von Behring Berlin][45]**
 * **[MeoClinic Berlin][46]**
 * **[UKE Hamburg][47]**
@@ -509,7 +508,6 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [41]: https://www.qz-ts-muc.de/wer-macht-was-im-qz/genital-operationen/dr-cvetan-taskov-1/
 [42]: https://www.markus-krankenhaus.de/leistungsspektrum/fachabteilungen/klinik-fuer-urologie
 [43]: https://kem-med.com/kompetenz-in-kliniken/fachkliniken/urologie/transgenderzentrum/
-[44]: https://www.pgdiakonie.de/evangelische-elisabeth-klinik/abteilungen/abteilung-fuer-plastische-chirurgie-und-handchirurgie/leistungsspektrum/
 [45]: https://www.helios-gesundheit.de/kliniken/berlin-klinikum-emil-von-behring/unser-angebot/fachbereiche/plastische-und-aesthetische-chirurgie/trans/
 [46]: https://www.meoclinic.de/en/specialties/transgender-surgery/
 [47]: https://www.uke.de/kliniken-institute/kliniken/plastische-rekonstruktive-und-%C3%A4sthetische-chirurgie/behandlungsangebot/geschlechtsangleichende-operationen/index.html

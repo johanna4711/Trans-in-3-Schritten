@@ -155,6 +155,16 @@ Für die medizinischen Maßnahmen sind Indikationsschreiben erforderlich.
 So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit: GermanTrans][15]** fragen).
 
 
+Disclaimer:
+Die Voraussetzungen die hier aufgeführt werden, sind nur für gültig für die gesetzlichen Krankenkassen. Die Anforderungen für die privaten Krankenkassen muss eins selbst bei der eigenen Krankenkasse erfragen.
+
+Nützliche Informationen zu dem Vorgehen bei PKVs kann eins bei **[Reddit: PKV][139]** finden. Dort findet sich auch ein weiterführender Link zur Süddeutschen Zeitung wo dies ebenfalls nochmals thematisiert wird.
+
+## Voraussetzungen für diverse medizinische Maßnahmen
+
+Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke sind bei **[RainbowDashieeees][24]** Kommentar auf Reddit zu finden.
+
+
 ## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
 
 ### Voraussetzungen
@@ -367,7 +377,6 @@ Falls es erwünscht ist, können die Brüste chirurgisch entfernt werden, damit 
 * Indikationsschreiben (siehe [Medizinisches](#medizinisches))
 * Kostenvoranschlag
 
-Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke sind bei **[RainbowDashieeees][24]** Kommentar auf Reddit zu finden.
 
 # Weitere nützliche/informative Links/ Sammlungen von Links
 
@@ -602,3 +611,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [136]: https://androwear.de/shop/#!/tucking-wear--0x28-gaffs-0x29-/sort/manual
 [137]: https://androwear.de/shop/#!/packing-underwear/sort/manual
 [138]: https://transdb.de
+[139]: https://www.reddit.com/r/germantrans/comments/o0deuj/privat_versichert/h2g4zy7/?utm_source=reddit&utm_medium=web2x&context=3

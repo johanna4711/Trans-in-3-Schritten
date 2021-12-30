@@ -141,6 +141,11 @@ Eins kann es auch über den Weg des PStGs §45b versuchen, ein Erfolg hierbei is
 Für nichtbinäre Menschen steht der Weg über das PStG §45b, sowie über das TSG offen. Unter **[geschlechtliche.selbstbestimmung.jetzt][12]** (zweiter Musterbrief) steht ein Musterantrag zur Verfügung.
 Eine sehr hilfreiche Seite über das **Wie?** kann eins bei **[pstg45b][13]** finden. Laut einem BGH Urteil aus 2020 (Aktenzeichen XII ZB 383/19) ist der Zugang zum PStG §45b nichtbinären trans\* Personen verwehrt (versuchen kann eins es trotzdem).
 
+
+Nützlicher Link zur Vornamen- und Personenstandsänderung:
+
+* **[Reddit: Wie ändere ich meinen Namen und Personenstand in DE von sloppy-pancake][140]**
+
 ### DGTI Ergänzungsausweis
 
 Es kann (vor allem via des TSGs) einige Zeit dauern, bis der Vorname bzw. der Personenstand geändert werden kann. Für einige kann es wichtig sein, so schnell wie möglich ein Dokument in den Händen zu halten mit dem richtigen Namen sowie Personenstand. Hier liefert der **[DGTI e.V. Ergänzungsausweis][16]** abhilfe (kein offizielles Dokument, wird aber von vielen Stellen akzeptiert).
@@ -612,3 +617,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [137]: https://androwear.de/shop/#!/packing-underwear/sort/manual
 [138]: https://transdb.de
 [139]: https://www.reddit.com/r/germantrans/comments/o0deuj/privat_versichert/h2g4zy7/?utm_source=reddit&utm_medium=web2x&context=3
+[140]: https://www.reddit.com/r/germantrans/comments/rqlyra/guide_zur_v%C3%A4p%C3%A4_erstellt_wie_%C3%A4ndere_ich_meinen/

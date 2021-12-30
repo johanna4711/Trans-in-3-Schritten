@@ -198,7 +198,7 @@ Für nichtbinäre Menschen steht der Weg über das PStG §45b, sowie über das T
 Eine sehr hilfreiche Seite über das **Wie?** kann eins bei **[pstg45b][13]** finden. Laut einem BGH Urteil aus 2020 (Aktenzeichen XII ZB 383/19) ist der Zugang zum PStG §45b nichtbinären trans\* Personen verwehrt (versuchen kann eins es trotzdem).
 
 
-Nützlicher Link zur Vornamen- und Personenstandsänderung:
+**Nützlicher Link zur Vornamen- und Personenstandsänderung:**
 
 * **[Reddit: Wie ändere ich meinen Namen und Personenstand in DE von sloppy-pancake][140]**
 

@@ -128,6 +128,8 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 
 ## Vornamen- und Personenstandsänderung
 
+Nützliche Informationen über eine Änderung des Vornamen- und Personenstandes kann eins finden unter [regenbogenportal: vornamen-und-personenstandsänderung][141]. Die Website zeigt eine Alternative zum TSG (Transsexuellenschutzgesetz). 
+
 ### Binär trans\*
 
 Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über das Internet zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
@@ -618,3 +620,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [138]: https://transdb.de
 [139]: https://www.reddit.com/r/germantrans/comments/o0deuj/privat_versichert/h2g4zy7/?utm_source=reddit&utm_medium=web2x&context=3
 [140]: https://www.reddit.com/r/germantrans/comments/rqlyra/guide_zur_v%C3%A4p%C3%A4_erstellt_wie_%C3%A4ndere_ich_meinen/
+[141]: https://www.regenbogenportal.de/informationen/vornamen-und-geschlechtseintrag-aendern-alternativen-zum-tsg

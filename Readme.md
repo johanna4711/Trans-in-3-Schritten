@@ -184,7 +184,7 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 
 ## Vornamen- und Personenstandsänderung
 
-Nützliche Informationen über eine Änderung des Vornamen- und Personenstandes kann eins finden unter [regenbogenportal: vornamen-und-personenstandsänderung][141]. Die Website zeigt eine Alternative zum TSG (Transsexuellenschutzgesetz). 
+Nützliche Informationen über eine Änderung des Vornamen- und Personenstandes kann eins finden unter **[regenbogenportal: vornamen-und-personenstandsänderung][141]**. Die Website zeigt eine Alternative zum TSG (Transsexuellenschutzgesetz). 
 
 ### Binär trans\*
 

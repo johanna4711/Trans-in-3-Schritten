@@ -306,7 +306,7 @@ Shops:
 
 #### Logopädie
 
-Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von auf HNO spezialisiertem ärztlichen Personal oder von der hausärztlichen Fachkraft kommen. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit][15]** fragen nach guten Praxen fragen).
+Für eine Stimmtherapie (Stimmfeminisierung via Übung), reicht eine Heilmittelverordnung mit Indikationsschlüssel ST1 (keine Indikation notwendig!). Eine solche Heilmittelverordnung kann von auf HNO spezialisiertem ärztlichen Personal oder von der hausärztlichen Fachkraft kommen. Psychater können auch so eine Heilmittelverordnung ausstellen. Im Zweifel einfach mal die behandelnde therapeutische Fachkraft fragen bei der eins in Behandlung ist. Mit dieser Verordnung kann eins sich dann an eine Logopädiepraxis wenden (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit][15]** fragen nach guten Praxen fragen).
 
 #### Bartepilation
 

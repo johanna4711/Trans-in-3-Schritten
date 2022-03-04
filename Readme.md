@@ -539,6 +539,7 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 3. Trans\* sein - oder auch nicht, wie du magst. Denn du bist du und ob du trans\* bist entscheidest nur du, dafür musst du nicht mehr tun als du zu sein :3
 
 
+
 [1]: johanna4711@zohomail.eu
 [2]: https://www.trans-ident.de/trans-ident-beratungsstelle
 [3]: https://www.transinterqueer.org/beratung/persoenliche-trans-inter-beratung/

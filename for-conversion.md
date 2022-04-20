@@ -169,7 +169,7 @@ Nützliche Informationen zu dem Vorgehen bei PKVs kann eins bei **[Reddit: PKV][
 
 ## Voraussetzungen für diverse medizinische Maßnahmen
 
-Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke sind bei **[RainbowDashieeees][24]** Kommentar auf Reddit zu finden.
+Eine Übersicht über die Voraussetzungen, weitere Informationen sowie Vordrucke sind bei **[RainbowDashieeees][142]** Post auf Reddit zu finden.
 
 
 ## Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt
@@ -623,3 +623,4 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [139]: https://www.reddit.com/r/germantrans/comments/o0deuj/privat_versichert/h2g4zy7/?utm_source=reddit&utm_medium=web2x&context=3
 [140]: https://www.reddit.com/r/germantrans/comments/rqlyra/guide_zur_v%C3%A4p%C3%A4_erstellt_wie_%C3%A4ndere_ich_meinen/
 [141]: https://www.regenbogenportal.de/informationen/vornamen-und-geschlechtseintrag-aendern-alternativen-zum-tsg
+[142]: https://www.reddit.com/r/germantrans/comments/u7vyfo/musterantr%C3%A4ge_und_direkte_bga_ausz%C3%BCge/

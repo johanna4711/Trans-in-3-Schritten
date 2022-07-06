@@ -22,6 +22,7 @@ Inhaltsverzeichnis
       * [Binär trans*](#binär-trans)
       * [Nichtbinär trans*](#nichtbinär-trans)
       * [DGTI Ergänzungsausweis](#dgti-ergänzungsausweis)
+   * [Selbstbestimmungsgesetz](#selbstbestimmungsgesetz)
 * [Medizinisches](#medizinisches)
    * [Voraussetzungen für diverse medizinische Maßnahmen](#voraussetzungen-für-diverse-medizinische-maßnahmen)
    * [Gegengeschlechtliche Hormonersatztherapie auch Hormonersatztherapie (HET) genannt](#gegengeschlechtliche-hormonersatztherapie-auch-hormonersatztherapie-het-genannt)
@@ -184,11 +185,11 @@ Unter Umständen nützliche Informationen zum Coming-Out kann eins hier finden:
 
 ## Vornamen- und Personenstandsänderung
 
-Nützliche Informationen über eine Änderung des Vornamen- und Personenstandes kann eins finden unter **[regenbogenportal: vornamen-und-personenstandsänderung][141]**. Die Website zeigt eine Alternative zum TSG (Transsexuellenschutzgesetz). 
+Nützliche Informationen über eine Änderung des Vornamen- und Personenstandes kann eins finden unter **[regenbogenportal: vornamen-und-personenstandsänderung][141]**. Die Website zeigt eine Alternative zum TSG (Transsexuellengesetz). 
 
 ### Binär trans\*
 
-Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellenschutzgesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über das Internet zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
+Für binäre trans\* Menschen bleibt momentan leider nur der Weg über das TSG (Transsexuellengesetz; Stand November 2021). Dies geschieht, indem eins einen Antrag an das zuständige Amtsgericht stellt (über das Internet zu finden). Ein Musterantrag kann bei **[geschlechtliche.selbstbestimmung.jetzt][12]** (erster Musterbrief) gefunden werden. 
 Eine hilfreiche Geschichte dazu kann bei **[Ellen's Blog][14]** gefunden werden. Eins benötigt dazu zwei unabhängige, psychologische Gutachten. Es ist äußert hilfreich bei lokalen Selbsthilfegruppen (Internet) nach geeigneten (trans\* freundlichen) therapeutischen Fachpersonal zu fragen.
 Eine weitere Möglichkeit geeignetes therapeutisches Fachpersonal zu finden ist über das Subreddit **[Reddit: GermanTrans][15]**. Dort findet sich meistens jemensch, der sich in der entsprechenden Region auskennt.
 
@@ -208,6 +209,10 @@ Eine sehr hilfreiche Seite über das **Wie?** kann eins bei **[pstg45b][13]** fi
 
 Es kann (vor allem via des TSGs) einige Zeit dauern, bis der Vorname bzw. der Personenstand geändert werden kann. Für einige kann es wichtig sein, so schnell wie möglich ein Dokument in den Händen zu halten mit dem richtigen Namen sowie Personenstand. Hier liefert der **[DGTI e.V. Ergänzungsausweis][16]** abhilfe (kein offizielles Dokument, wird aber von vielen Stellen akzeptiert).
 
+## Selbstbestimmungsgesetz
+
+Das TSG soll in nahender Zukunft (Politik meint noch in 2022) durch ein Selbstbestimmungsgesetz abgelöst werden, mit dem es einfach einer "Erklärung" auf dem Standesamt bedarf um Namen und Personenstand zu ändern. Es könnte sich also durchaus lohnen zu warten, weil ein TSG Verfahren gerne länger dauern kann (und deutlich mehr kostet). Informationen (beziehungsweise die geplanten Eckpunkte) können bei **[Sven Lehmanns Thread][143]** oder direkt in dem **[Eckpunkteschreiben][144]** eingesehen werden.
+
 # Medizinisches
 
 Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzungen zu beachten. An dieser Stelle ein **wichtiger Hinweis**. Medizinische Transition ist ein Angebot, das nicht wahrgenommen werden muss, damit eins trans\* ist. Jeder Mensch hat andere Bedürfnisse! Die MDS Richtlinien gelten nur für Personen über 18. Die Diagnose F64.0 ist nur für Personen über 18 zulässig, ansonsten ist es F64.2.
@@ -219,7 +224,7 @@ So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut 
 
 
 Disclaimer:
-Die Voraussetzungen die hier aufgeführt werden, sind nur für gültig für die gesetzlichen Krankenkassen. Die Anforderungen für die privaten Krankenkassen muss eins selbst bei der eigenen Krankenkasse erfragen.
+Die Voraussetzungen die hier aufgeführt werden, sind nur gültig für die gesetzlichen Krankenkassen. Die Anforderungen für die privaten Krankenkassen muss eins selbst bei der eigenen Krankenkasse erfragen.
 
 Nützliche Informationen zu dem Vorgehen bei PKVs kann eins bei **[Reddit: PKV][139]** finden. Dort findet sich auch ein weiterführender Link zur Süddeutschen Zeitung wo dies ebenfalls nochmals thematisiert wird.
 
@@ -680,3 +685,5 @@ Es ist höflich die Pronomen zu benutzen von Personen, die eins mittgeteilt beko
 [140]: https://www.reddit.com/r/germantrans/comments/rqlyra/guide_zur_v%C3%A4p%C3%A4_erstellt_wie_%C3%A4ndere_ich_meinen/
 [141]: https://www.regenbogenportal.de/informationen/vornamen-und-geschlechtseintrag-aendern-alternativen-zum-tsg
 [142]: https://www.reddit.com/r/germantrans/comments/u7vyfo/musterantr%C3%A4ge_und_direkte_bga_ausz%C3%BCge/
+[143]: https://twitter.com/svenlehmann/status/1542432873030062080?s=21&t=N_iZIHEJg6ctV7Y2FRAEOA
+[144]: https://www.bmfsfj.de/resource/blob/199382/3ca564087d19553bdddb4312bfa1c498/20220630-selbstbestimmungsgesetz-eckpunkte-data.pdf

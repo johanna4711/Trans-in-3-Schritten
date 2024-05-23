@@ -165,7 +165,7 @@ Falls medizinische Schritte erwünscht sind, sind (leider) einige Voraussetzunge
 Leitlinien für zu behandelnde trans\* Personen und Fachpersonal sind in den **[AWMF Leitlinien][83]** zu finden.
 
 Für die medizinischen Maßnahmen sind Indikationsschreiben erforderlich. 
-So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 6 Monate Therapie mit 12/24 Sitzungen a 50/25 Minuten "verpflichtend"; gilt nicht für die HRT. Eins kann die HRT beginnen, sobald ein indikationsschreiben vorliegt; Dauer abhängig von der therapeutischen Fachkraft). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit: GermanTrans][15]** fragen).
+So ein Indikationsschreiben bekommt eins vom therapeutischen Fachpersonal (laut aktuellen **[BGA des MDSs][17]** sind 12/24 Sitzungen a 50/25 Minuten "verpflichtend"; gilt nicht für die HRT. Eins kann die HRT beginnen, sobald ein Indikationsschreiben vorliegt; Dauer abhängig von der therapeutischen Fachkraft). Sind diese Therapiestunden absolviert, sind laut aktuellen **[BGA des MDSs][17]** keine weiteren Therapiestunden erforderlich, egal für welche medizinischen Maßnahmen sich eins entscheidet. Aber es gibt durchaus therapeutisches Fachpersonal, die dieses Schreiben früher ausstellen (am besten bei lokalen Selbsthilfegruppen (Internet) oder **[Reddit: GermanTrans][15]** fragen).
 
 
 Disclaimer:
